@@ -1,6 +1,4 @@
-
-
-# Rick-Yuankang-Xiong-Quan-python
+# Rick-Yuankang-Xiong-Quant-python
 
 These are programs I have written while learning Python. The implementation is in Jupyter notebooks.
 
